@@ -9,7 +9,7 @@ from cura.Snapshot import Snapshot
 
 
 # Main class
-class LotmaxxSnapshot(Extension):
+class ElegooNeptuneSnapshot(Extension):
 
     # Init
     def __init__(self):
